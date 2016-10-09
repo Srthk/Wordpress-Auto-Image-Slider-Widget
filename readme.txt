@@ -1,3 +1,5 @@
+Download & Support - https://wordpress.org/plugins/srtk-auto-image-slider-widget/
+
 === SRTK Auto Image Slider Widget ===
 Contributors: srthk
 Tags: image, slider, widget, javascript
